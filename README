@@ -1,0 +1,8 @@
+This proyect want's to bring the linode stackscripts to every server.
+
+There is a way to download and translate to bashscript evert linide stackscript.
+The deal is create a ruby gem to automatize this process.
+
+
+# exec: sudo /bin/bash 2438.sh
+# url: http://www.linode.com/stackscripts/view/?StackScriptID=2438
